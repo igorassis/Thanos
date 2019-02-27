@@ -1,0 +1,5 @@
+//TYPES 
+
+//TYPE EXAMPLE
+
+export const ADD_FRIEND = 'ADD_FRIEND';
