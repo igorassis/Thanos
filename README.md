@@ -1,5 +1,5 @@
-<img src="https://pngimage.net/wp-content/uploads/2018/06/infinity-gauntlet-png-3.png" alt="react native boilerplate banner" align="left" />
 # Thanos
+<img src="https://pngimage.net/wp-content/uploads/2018/06/infinity-gauntlet-png-3.png" alt="react native boilerplate banner" align="left" />
 
 A React Native Boilerplate using Redux for state management and Styled Components for styling.
 
