@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import { Text, StyleSheet, View, TouchableOpacity } from 'react-native'
 import { connect } from 'react-redux';
 import styled from 'styled-components/native';
+// import BluetoothSerial from 'react-native-bluetooth-serial';
+// import TinyPOS from 'tiny-esc-pos';
 
 const StyledView = styled.View`
   flex: 1;
@@ -27,6 +29,28 @@ class Home extends Component {
   static navigationOptions = {
     header: null,
   };
+
+//   componentWillMount(){
+//     const writePromises = [];
+
+//     writePromises.push(BluetoothSerial.write(TinyPOS.init()));
+    
+//     writePromises.push(BluetoothSerial.write(
+//       TinyPOS.bufferedText('Hello World', {
+//           size: 'doubleheight',
+//           align: 'center',
+//           weight: 'bold'
+//       }, true) // new line
+//     ));
+
+//     writePromises.push(BluetoothSerial.write(
+//       TinyPOS.print(2)
+//   ));
+
+//   Promise.all(writePromises)
+// .then(res => console.log(res))
+// .catch(err => console.log(err.message));
+//   }
 
   render() {
     return (
