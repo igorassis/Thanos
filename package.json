@@ -9,9 +9,12 @@
   "dependencies": {
     "axios": "^0.18.0",
     "expo": "^32.0.0",
+    "expokit": "^32.0.7",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-bluetooth-escpos-printer": "^0.0.5",
     "react-native-bluetooth-serial": "^1.0.0-rc1",
+    "react-native-maps": "^0.23.0",
     "react-navigation": "^3.3.2",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
@@ -21,7 +24,8 @@
   },
   "devDependencies": {
     "@babel/preset-flow": "^7.0.0",
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^5.0.0",
+    "flow-bin": "^0.93.0"
   },
   "private": true
 }

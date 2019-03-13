@@ -59,6 +59,9 @@ class Home extends Component {
           <StyledButton onPress={() => this.props.navigation.navigate('Friends')}>
             <Text style={{color: 'white'}}>Add Friends</Text>
           </StyledButton>
+          <StyledButton onPress={() => this.props.navigation.navigate('BLE')}>
+            <Text style={{color: 'white'}}>BLE Module</Text>
+          </StyledButton>
       </StyledView>
     )
   }

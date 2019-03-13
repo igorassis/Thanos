@@ -1,0 +1,10 @@
+#Wed Mar 13 12:37:50 BRT 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/igorpires/Documents/Development/ArchitectureDesign/RDSv2/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/10
+base.1=/Users/igorpires/Documents/Development/ArchitectureDesign/RDSv2/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/10
+base.0=/Users/igorpires/Documents/Development/ArchitectureDesign/RDSv2/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/10

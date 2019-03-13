@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: host.exp.exponent:expo-app-loader-provider:1.0.0@aar">
+    <CLASSES>
+      <root url="jar:///private/var/root/.gradle/caches/transforms-1/files-1.1/expo-app-loader-provider-1.0.0.aar/223c85116343236fdf373f7a06ac46fb/jars/classes.jar!/" />
+      <root url="file:///private/var/root/.gradle/caches/transforms-1/files-1.1/expo-app-loader-provider-1.0.0.aar/223c85116343236fdf373f7a06ac46fb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/expokit/maven/host/exp/exponent/expo-app-loader-provider/1.0.0/expo-app-loader-provider-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

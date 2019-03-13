@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:4.99.0@aar">
+    <ANNOTATIONS>
+      <root url="jar:///private/var/root/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/22bec792155747bbcf5dd59af7cdc3ce/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file:///private/var/root/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/22bec792155747bbcf5dd59af7cdc3ce/res" />
+      <root url="jar:///private/var/root/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.0.aar/22bec792155747bbcf5dd59af7cdc3ce/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
